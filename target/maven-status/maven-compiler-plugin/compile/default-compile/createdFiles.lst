@@ -1,0 +1,8 @@
+org\astafievvadim\openweather\model\CacheItem.class
+org\astafievvadim\openweather\weather\WeatherSDK.class
+org\astafievvadim\openweather\weather\WeatherSDKManager.class
+org\astafievvadim\openweather\cache\WeatherCache.class
+org\astafievvadim\openweather\weather\WeatherException.class
+org\astafievvadim\openweather\model\WeatherResponse.class
+org\astafievvadim\openweather\weather\Mode.class
+org\astafievvadim\openweather\cache\WeatherCache$1.class
